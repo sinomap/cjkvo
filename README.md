@@ -1,6 +1,6 @@
 # CJKVO
 
-CJKVO is a parser/emitter for CJKV phonetic orthography. It supportsparsing/emitting CJKV syllables written in a common phonetic script into a phonological representation.
+CJKVO is a parser/emitter for CJKV phonetic orthography. It supports parsing/emitting CJKV syllables written in a common phonetic script into a phonological representation.
 The written form is translated into a tuple of initial, medial, vowel, coda, tone, a model typically used in Chinese
 and Sinoxenic phonology. (Tone is currently only included for Vietnamese.)
 
